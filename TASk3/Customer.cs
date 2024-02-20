@@ -19,7 +19,7 @@ namespace TASk3
             return new List<Customer>
             {
             new Customer { ID = 101, Name = "bhargava.", Address = "d.no 123" },
-            new Customer { ID = 102, Name = "krishna", Address = "d.no 33" }
+            new Customer { ID = 102, Name = "krishna6", Address = "d.no 33" }
            
             };
             

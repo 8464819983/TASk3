@@ -19,7 +19,7 @@ namespace TASk3
             
             List<Employee> employees = new List<Employee>()
             {
-            new Employee { ID = 1, Name = "John Doe", Position = "Manager" },
+            new Employee { ID = 1, Name = "Johngg Doe", Position = "Manager" },
             new Employee { ID = 2, Name = "Jane Smith", Position = "Developer" }
             };
 
