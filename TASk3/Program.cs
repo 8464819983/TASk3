@@ -14,7 +14,7 @@ namespace TASk3
             Customer customer = new Customer();
             Employee employee = new Employee();
 
-            Console.WriteLine("Enter 1 for employee details, 2 for customer details:");
+            Console.WriteLine("Enter 1 for employees details, 2 for customer details:");
             string input = Console.ReadLine();
 
             if (input == "1")
